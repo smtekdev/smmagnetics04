@@ -522,7 +522,7 @@ body .pbmit-bg-color-white{
 }
  .site-navigations ul.navigation > li > a {
      display: block;
-     padding: 0 26px;
+     padding: 0 10px;
      text-decoration: none;
      position: relative;
      z-index: 1;
