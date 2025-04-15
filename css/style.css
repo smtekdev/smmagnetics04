@@ -169,8 +169,8 @@ blockquote p {
     font-size: 210px;
     line-height: 210px;
     font-weight: 400;
-    color: transparent;
-    -webkit-text-stroke: 2px var(--pbmit-global-color);
+    color: #000000;
+    -webkit-text-stroke: 2px #ffffff;
     opacity: .4;
 }
 .static-box-one{
