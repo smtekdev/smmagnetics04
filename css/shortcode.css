@@ -3866,7 +3866,7 @@ a.nav-link.pbmit-bg-color-light {
 }
 .pbmit-ele-static-box.pbmit-static-box-style-1 .pbmit-contentbox{
     width: 400px; 
-    background-color:var(--pbmit-global-color);
+    background-color:#931a21;
     padding: 50px 50px 30px 50px;    
     position: absolute;
     z-index: 3;
