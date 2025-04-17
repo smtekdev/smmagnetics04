@@ -3750,7 +3750,7 @@ a.btn-arrow span:after {
     position: absolute;
     width: 162px;
     height: 112px;
-    background-color: var(--pbmit-global-color);
+    background-color: #931a21;
     right: 30px;
     top: 50%;
     border-radius: 0 0 0 50px;
